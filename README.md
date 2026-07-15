@@ -1,38 +1,19 @@
-# sv
+# Yazılım, Yapay Zeka, Yaratıcılık Kulübü Quiz
+## İstanbul Esenyurt Üniversitesi - Kod Tadında Pilav
+İstanbul Esenyurt Üniversitesi, Bilgisayar Mühendisliği Bölümü ve Yazılım Mühendisliği Bölümü öğrencileri ve öğretmenlerinin kurduğu Yazılım Yapay Zeka ve Yaratıcılık Kulübünün, Mutfak Sanatları Kulübünün de katkılarıyla beraber hazırladığı kulüp etkinliği gerçekleştirildi. Çoğunlukla Bilgisayar ve Yazılım Mühendisliği öğrencilerinin katılım sağladığı etkinlikte soru ve cevap odaklı oyunlar sayesinde eğlenceli ve sosyal anlar sağlandı. Etkinliğe tadını ve adını veren pilav ikramıyla da etkinlik sonlandırıldı.
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
-## Creating a project
+## Etkinlikten Kareler
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Uygulamadan Görüntüler
 
-```sh
-# create a new project in the current directory
-npx sv create
+## Çalıştırma
 
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Gereksinimleri `npm install` ile yükledikten sonra (veya `pnpm install` veya `yarn`), geliştirme sunucusunu başlatın:
 
 ```sh
 npm run dev
 
-# or start the server and open the app in a new browser tab
+# Ya da sunucuyu başlatıp yeni sekmede çalıştırmak isterseniz
 npm run dev -- --open
 ```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
